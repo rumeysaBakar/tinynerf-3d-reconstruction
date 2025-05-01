@@ -7,14 +7,9 @@ This repository provides a minimal and educational implementation of Neural Radi
 - [Overview](#overview)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-  - [Training](#training)
-  - [Rendering a Novel View](#rendering-a-novel-view)
-- [Project Structure](#project-structure)
 - [Requirements](#requirements)
 - [Example Output](#example-output)
-- [References](#references)
-- [License](#license)
+
 
 ## Overview
 
@@ -27,11 +22,9 @@ NeRF (Neural Radiance Fields) is a novel approach to synthesizing novel views of
 - Camera pose sampling from spherical coordinates
 - Rendering of novel viewpoints after training
 
-## Installation
+##  Example Output
 
-Clone the repository and install the required Python packages:
 
-```bash
-git clone https://github.com/yourusername/nerf-3d-reconstruction.git
-cd nerf-3d-reconstruction
-pip install -r requirements.txt
+https://github.com/user-attachments/assets/1606bab1-3c14-498b-9c77-baf32a427e7f
+
+
