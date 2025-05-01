@@ -23,6 +23,7 @@ NeRF (Neural Radiance Fields) is a novel approach to synthesizing novel views of
 - Rendering of novel viewpoints after training
 
 ##  Example Output
+https://embed.deepnote.com/f183d8a3-efd7-45b6-9449-c4006a7cfab3/635c57d453b8459fa0ee8556673554b5/9bc4197c8e014a45b937a872019f8131?height=14512.3251953125
 
 
 https://github.com/user-attachments/assets/1606bab1-3c14-498b-9c77-baf32a427e7f
