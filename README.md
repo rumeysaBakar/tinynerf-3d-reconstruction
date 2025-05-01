@@ -6,7 +6,6 @@ This repository provides a minimal and educational implementation of Neural Radi
 
 - [Overview](#overview)
 - [Features](#features)
-- [Installation](#installation)
 - [Requirements](#requirements)
 - [Example Output](#example-output)
 
@@ -21,6 +20,14 @@ NeRF (Neural Radiance Fields) is a novel approach to synthesizing novel views of
 - Ray generation and volumetric rendering pipeline
 - Camera pose sampling from spherical coordinates
 - Rendering of novel viewpoints after training
+
+## Requirements
+
+Python 3.8+
+PyTorch
+NumPy
+Matplotlib
+tqdm
 
 ##  Example Output
 You can see the outputs and improvements of the trained model on this link. 
